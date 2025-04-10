@@ -114,3 +114,5 @@ This project is open-source and available under the MIT License.
 🙌 Acknowledgements
 Inspired by the clean UI of YouTube and created for educational and practice purposes.
 
+Author:
+SHyamsunder Kadam
